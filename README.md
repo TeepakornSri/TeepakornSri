@@ -12,7 +12,7 @@
 
 ---
 
-### 🔧 Languages & Tools  
+### 💼 My Skills – Languages & Tools  
 
 #### ☁️ Cloud & DevOps  
 <p align="left">
