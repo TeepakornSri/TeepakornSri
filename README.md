@@ -38,12 +38,7 @@
 
 ---
 
-### 🤝 Contact
-<p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Write%20to%20me-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-portfolio.example.com/"><img src="https://img.shields.io/badge/Portfolio-See%20my%20work-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00C6FF&height=100&section=footer" alt="footer"/>
