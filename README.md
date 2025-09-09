@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Teepakorn</h1>
 <h3 align="center">
   🚀 Passionate Full-Stack Developer <br/>
-  Eager to deliver impactful solutions through modern technologies & cloud platforms
+  Driving impactful projects with modern technologies & cloud platforms
 </h3>
 
 ---
@@ -21,8 +21,6 @@
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="55" height="55" alt="Docker"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40" alt="GitHub"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a>
-  <a href="https://www.elastic.co/kibana" target="_blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" height="40" alt="Kibana"/></a>
-  <a href="https://grafana.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40" alt="Grafana"/></a>
 </p>
 
 #### 🖥️ Backend  
@@ -53,12 +51,8 @@
 
 #### 💼 Microsoft Power Platform  
 <p align="left">
-  <a href="https://powerapps.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/power-apps.png" width="40" height="40" alt="Power Apps"/></a>
-  <a href="https://powerautomate.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/power-automate.png" width="40" height="40" alt="Power Automate"/></a>
-  <a href="https://learn.microsoft.com/en-us/power-automate/desktop-flows/" target="_blank"><img src="https://img.icons8.com/color/48/robot-2.png" width="40" height="40" alt="Power Automate Desktop"/></a>
-  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40" alt="Power BI"/></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration" target="_blank"><img src="https://img.icons8.com/color/48/sharepoint.png" width="40" height="40" alt="SharePoint"/></a>
-  <a href="https://learn.microsoft.com/en-us/power-apps/maker/data-platform-overview" target="_blank"><img src="https://img.icons8.com/color/48/database.png" width="40" height="40" alt="Dataverse"/></a>
+  <img src="https://img.icons8.com/color/48/microsoft.png" width="40" height="40" alt="Microsoft Power Platform"/>  
+  Power Apps · Power Automate · Power Automate Desktop · Power BI · SharePoint · Dataverse
 </p>
 
 ---
@@ -76,12 +70,12 @@
 ---
 
 ### 💡 About Me
-- 💻 Full-stack developer specializing in **React, Node.js, Prisma, and Cloud (GCP & AWS)**  
-- 🎨 Passionate about building **modern, clean, and scalable UI/UX** with Tailwind CSS & Material-UI  
-- ⚙️ Experienced in **DevOps, logging & monitoring** with Docker, Kibana, and Grafana  
-- 📊 Skilled in **Microsoft Power Platform (Power Apps, Power Automate, PAD, Power BI, SharePoint, Dataverse)**  
-- 🌐 Always exploring new technologies to deliver business impact & automation  
-- 📚 Strong believer in **continuous learning & innovation**  
+- 💻 Full-stack developer with expertise in **React, Node.js, Prisma, and Cloud (GCP & AWS)**  
+- 🎨 Specialized in building **modern, clean, and scalable UI/UX** with Tailwind CSS & Material-UI  
+- ⚙️ Experienced in **cloud deployment, CI/CD, and system automation**  
+- 📊 Skilled in **Microsoft Power Platform** (Power Apps, Power Automate, PAD, Power BI, SharePoint, Dataverse)  
+- 🌐 Focused on **automation, business solutions, and modern web apps**  
+- 📚 Strong believer in **continuous learning, innovation, and impactful teamwork**  
 
 ---
 
